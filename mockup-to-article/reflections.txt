@@ -1,8 +1,12 @@
 You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
   * What new skills have you learned?
+  I learng to be more careful when it comes to follow specific guidelines.
   * What has been easy?
+  I wouldn't say eay but i enjoy the challenge of getting it wrong and fix it all over again.
   * What has been difficult?
+I have a hard time submitting the right zip folder. It seems that you guys always get the wrong version.
   * How have you used the problem solving strategies from the first project to overcome challenges so far?
+  So far this is working pretty good.
 
 ---
 
